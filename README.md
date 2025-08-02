@@ -73,8 +73,6 @@ We utilize **Natural Language Processing (NLP)** combined with a **Bi-LSTM neura
 │   └── sherlock_holmes.txt
 ├── notebooks/
 │   └── next_word_prediction.ipynb
-├── models/
-│   └── next_word_model.h5
 ├── README.md
 └── requirements.txt
 ```
